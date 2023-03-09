@@ -1,4 +1,6 @@
 
+used for Minecraft > v1.19
+
 1. [OpenJDK 17](https://adoptium.net/en-GB/temurin/releases/?version=17)
 
 # to update.
